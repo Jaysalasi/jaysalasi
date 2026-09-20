@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Joel 👋</h1>
-<h3 align="center">Frontend developer building mobile apps, web platforms & WordPress experiences from Abuja, Nigeria 🇳🇬</h3>
+<h3 align="center">Frontend developer building mobile apps, web platforms & WordPress experiences from Abuja, Nigeria </h3>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaysalasi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,17 +7,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Frontend developer with a background in **WordPress design** and **mobile development**
-- 📱 I build cross-platform apps with **Flutter** & **React Native**, and modern web apps with **React & Next.js**
-- 🤝 I split my time between **freelance client projects** and **my own product builds**
-- 🇳🇬 Building for the Open/Closed market, with a focus on business tools and compliance tech
-- 📫 Reach me: **tanunajoel0@gmail.com**
+- Frontend developer with a background in **WordPress design** and **mobile development**
+- I build cross-platform apps with **Flutter** & **React Native**, and modern web apps with **React & Next.js**
+- I split my time between **freelance client projects** and **my own product builds**
+- Building for the Open/Closed market, with a focus on business tools and compliance tech
+- Reach me: **tanunajoel0@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Mobile**
 
@@ -48,15 +48,15 @@
 
 ---
 
-## 📌 What I Build
+##  What I Build
 
 | Area | What I do |
 |------|-----------|
-| 📱 **Mobile apps** | Cross-platform Flutter and React Native apps with clean architecture and API integrations |
-| 🌐 **Web apps** | Fast, responsive React / Next.js frontends |
-| 🎨 **WordPress** | Custom themes in PHP, built from design to deployment |
-| 🔗 **Integrations** | Connecting frontends to backends, payment providers and third-party APIs |
-| 🎮 **Game dev** | Experimenting with Unity & C# on the side |
+|  **Mobile apps** | Cross-platform Flutter and React Native apps with clean architecture and API integrations |
+|  **Web apps** | Fast, responsive React / Next.js frontends |
+|  **WordPress** | Custom themes in PHP, built from design to deployment |
+|  **Integrations** | Connecting frontends to backends, payment providers and third-party APIs |
+|  **Game dev** | Experimenting with Unity & C# on the side |
 
 ---
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/joel-joshua-2572bb40a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -95,4 +95,4 @@
   <a href="mailto:tanunajoel0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>Open to freelance projects and collaborations. Let's build something great. 🚀</i></p>
+<p align="center"><i>Open to freelance projects and collaborations. Let's build something great. </i></p>
