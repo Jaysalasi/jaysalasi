@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Joel 👋</h1>
 <h3 align="center">Frontend developer building mobile apps, web platforms & WordPress experiences from Abuja, Nigeria 🇳🇬</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaysalasi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p> -->
 
 ---
 
@@ -60,22 +60,22 @@
 
 ---
 
-## ⭐ Featured Projects
+<!-- ## ⭐ Featured Projects -->
 
 <!-- Replace with your own pinned repos -->
 
-- 🔹 **[Project Name](https://github.com/YOUR_USERNAME/repo)**: one-line description of what it does and the stack behind it
+<!-- - 🔹 **[Project Name](https://github.com/YOUR_USERNAME/repo)**: one-line description of what it does and the stack behind it
 - 🔹 **[Project Name](https://github.com/YOUR_USERNAME/repo)**: one-line description of what it does and the stack behind it
 - 🔹 **[Project Name](https://github.com/YOUR_USERNAME/repo)**: one-line description of what it does and the stack behind it
 
----
+--- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+</p> -->
 
 ---
 
@@ -89,10 +89,10 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/joel-joshua-2572bb40a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/jay_salasi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <!-- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> -->
+  <a href="mailto:tanunajoel0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><i>Open to freelance projects and collaborations. Let's build something great. 🚀</i></p>
