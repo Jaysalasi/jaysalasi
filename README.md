@@ -23,6 +23,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Frontend**
 
@@ -51,7 +52,7 @@
 
 | Area | What I do |
 |------|-----------|
-| 📱 **Mobile apps** | Cross-platform Flutter apps with clean architecture and API integrations |
+| 📱 **Mobile apps** | Cross-platform Flutter and React Native apps with clean architecture and API integrations |
 | 🌐 **Web apps** | Fast, responsive React / Next.js frontends |
 | 🎨 **WordPress** | Custom themes in PHP, built from design to deployment |
 | 🔗 **Integrations** | Connecting frontends to backends, payment providers and third-party APIs |
