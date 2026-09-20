@@ -1,4 +1,4 @@
-<h1 align="center">Yo!, I'm Joel </h1>
+<h1 align="center">Yo! I'm Joel </h1>
 <h3 align="center">Frontend developer building mobile apps, web platforms & WordPress experiences from Abuja, Nigeria </h3>
 
 <!-- <p align="center">
